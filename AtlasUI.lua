@@ -11,6 +11,7 @@ Made by RoadToGlory#9879
 Join: https://discord.gg/xu5dDS3Pb9
 
 ]]
+
 local VERSION = "1.2"
 
 -- LURAPH (if i left it enabled)
@@ -1435,7 +1436,6 @@ do
             Converted["_Frame"].Parent = Converted["_Main1"]
 
             Converted["_B"].Font = Enum.Font.Gotham
-            Converted["_B"].Text = "Atlas UI Lib: RoadToGlory#9879" -- please don't remove this, this is open sourced and I leave this here so that users can know the name of the UI library if they are interested in it
             Converted["_B"].TextColor3 = Color3.fromRGB(225.00000178813934, 225.00000178813934, 225.00000178813934)
             Converted["_B"].TextSize = 12
             Converted["_B"].AnchorPoint = Vector2.new(0.5, 0.5)
