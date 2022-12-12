@@ -6717,7 +6717,4 @@ do
 
     end
 end
-
-print("Atlas UI Library v"..VERSION.." by RoadToGlory#9879 has initiated")
-
 return Library
