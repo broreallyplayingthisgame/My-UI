@@ -1435,19 +1435,6 @@ do
             Converted["_Frame"].Size = UDim2.new(0, 1, 1, 0)
             Converted["_Frame"].Parent = Converted["_Main1"]
 
-            Converted["_A"].Font = Enum.Font.Gotham
-            Converted["_A"].Text = "AWP: RoadToGlory#9879"
-            Converted["_A"].TextColor3 = Color3.fromRGB(225.00000178813934, 225.00000178813934, 225.00000178813934)
-            Converted["_A"].TextSize = 12
-            Converted["_A"].AnchorPoint = Vector2.new(0.5, 0.5)
-            Converted["_A"].AutomaticSize = Enum.AutomaticSize.X
-            Converted["_A"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-            Converted["_A"].BackgroundTransparency = 1
-            Converted["_A"].Position = UDim2.new(0.5, 0, 0.300000012, 0)
-            Converted["_A"].Size = UDim2.new(0, 1, 0.300000012, 0)
-            Converted["_A"].Name = "A"
-            Converted["_A"].Parent = Converted["_Frame"]
-
             Converted["_UIListLayout1"].HorizontalAlignment = Enum.HorizontalAlignment.Center
             Converted["_UIListLayout1"].VerticalAlignment = Enum.VerticalAlignment.Center
             Converted["_UIListLayout1"].Parent = Converted["_Frame"]
