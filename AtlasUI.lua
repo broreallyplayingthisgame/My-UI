@@ -1435,18 +1435,6 @@ do
             Converted["_Frame"].Size = UDim2.new(0, 1, 1, 0)
             Converted["_Frame"].Parent = Converted["_Main1"]
 
-            Converted["_B"].Font = Enum.Font.Gotham
-            Converted["_B"].TextColor3 = Color3.fromRGB(225.00000178813934, 225.00000178813934, 225.00000178813934)
-            Converted["_B"].TextSize = 12
-            Converted["_B"].AnchorPoint = Vector2.new(0.5, 0.5)
-            Converted["_B"].AutomaticSize = Enum.AutomaticSize.X
-            Converted["_B"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-            Converted["_B"].BackgroundTransparency = 1
-            Converted["_B"].Position = UDim2.new(0.5, 0, 0.699999988, 0)
-            Converted["_B"].Size = UDim2.new(0, 1, 0.300000012, 0)
-            Converted["_B"].Name = "B"
-            Converted["_B"].Parent = Converted["_Frame"]
-
             Converted["_A"].Font = Enum.Font.Gotham
             Converted["_A"].Text = "AWP: RoadToGlory#9879"
             Converted["_A"].TextColor3 = Color3.fromRGB(225.00000178813934, 225.00000178813934, 225.00000178813934)
@@ -6729,4 +6717,7 @@ do
 
     end
 end
+
+print("Atlas UI Library v"..VERSION.." by RoadToGlory#9879 has initiated")
+
 return Library
