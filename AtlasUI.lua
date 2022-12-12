@@ -2122,7 +2122,7 @@ do
                 })
                 transition:Play()
                 transition.Completed:Wait()
-                local keyPath = info.ConfigFolder.."/wiglyware.txt"
+                local keyPath = info.ConfigFolder.."/key.txt"
                 local nextKey = info.CheckKey and not info.CheckKey(string.gsub(string.gsub(readfile(keyPath), "^%s+", ""), "%s+$", ""))
                 local nextObj = nextKey and key or profile
                 nextObj.Size = UDim2.fromScale(0,1)
