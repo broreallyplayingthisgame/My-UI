@@ -1,1 +1,1 @@
-loadstring([[print'xd']])
+--loadstring([[print'xd']])
