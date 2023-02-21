@@ -1,0 +1,1 @@
+loadstring([[print'xd']])
